@@ -4,4 +4,4 @@
 3. To execute the code, just execude the main.py
 4. To test with extra image, please modify the main.py by adding source file name in the program.
 ## Show Case
-(./Cat_Turkey_50.bmp)(./Cat_Turkey_50M.bmp)(./Result3_res.bmp)(./car_turkey_ori.JPG)
+![xwang875](./Cat_Turkey_50.bmp)![xwang875](./Cat_Turkey_50M.bmp)![xwang875](./Result3_res.bmp)![xwang875](./car_turkey_ori.JPG)

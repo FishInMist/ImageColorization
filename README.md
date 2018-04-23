@@ -4,11 +4,11 @@
 3. To execute the code, just execude the main.py
 4. To test with extra image, please modify the main.py by adding source file name in the program.
 ## Show Case
-* Black Whit Image:<br/>
+* Black White Image:<br/>
 ![xiaochen](./Cat_Turkey_50.bmp)
 * Scribble marks:<br/>
 ![xiaochen](./Cat_Turkey_50M.bmp)
 * Colorization result:<br/>
 ![xiaochen](./Result3_res.bmp)
 * Original Image:<br/>
-![xiaochen|500x375, 50%](./car_turkey_ori.JPG)
+![xiaochen](./car_turkey_ori.JPG =500x375)

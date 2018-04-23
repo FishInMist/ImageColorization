@@ -5,10 +5,10 @@
 4. To test with extra image, please modify the main.py by adding source file name in the program.
 ## Show Case
 * Black Whit Image:<br/>
-![xwang875](./Cat_Turkey_50.bmp)
+![xiaochen](./Cat_Turkey_50.bmp)
 * Scribble marks:<br/>
-![xwang875](./Cat_Turkey_50M.bmp)
+![xiaochen](./Cat_Turkey_50M.bmp)
 * Colorization result:<br/>
-![xwang875](./Result3_res.bmp)
+![xiaochen](./Result3_res.bmp)
 * Original Image:<br/>
-![xwang875|500x375](./car_turkey_ori.JPG)
+![xiaochen|500x375, 50%](./car_turkey_ori.JPG)

@@ -4,11 +4,11 @@
 3. To execute the code, just execude the main.py
 4. To test with extra image, please modify the main.py by adding source file name in the program.
 ## Show Case
-* Black Whit Image: 
+* Black Whit Image:<br/>
 ![xwang875](./Cat_Turkey_50.bmp)
-* Scribble marks:
+* Scribble marks:<br/>
 ![xwang875](./Cat_Turkey_50M.bmp)
-* Colorization result: 
+* Colorization result:<br/>
 ![xwang875](./Result3_res.bmp)
-* Original Image: 
+* Original Image:<br/>
 ![xwang875](./car_turkey_ori.JPG)

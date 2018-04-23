@@ -11,4 +11,4 @@
 * Colorization result:<br/>
 ![xwang875](./Result3_res.bmp)
 * Original Image:<br/>
-![xwang875 | 50%](./car_turkey_ori.JPG)
+![xwang875|500x375](./car_turkey_ori.JPG)

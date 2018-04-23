@@ -11,4 +11,4 @@
 * Colorization result:<br/>
 ![xiaochen](./Result3_res.bmp)
 * Original Image:<br/>
-![xiaochen](./car_turkey_ori.JPG =500x375)
+![xiaochen](./car_turkey_ori.JPG){ width =50%}
